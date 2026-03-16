@@ -1,2 +1,2 @@
 # myprogram
-um teste da minhaprimeira calculadora em Python
+um teste da minha primeira calculadora em Python
